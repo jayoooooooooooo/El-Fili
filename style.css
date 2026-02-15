@@ -11,13 +11,13 @@ p {
     font-size: 21px;
     margin: 10px 2;
     color: #ffffff;
-    align-self: auto;
+    align-self: center;
 }
 
 .about-container {
     display: ruby-text-container;
     margin: 40px 40px;
-    padding: 10px;
+    padding: 20px;
 }
 
 .about-container-wrapper {
@@ -68,6 +68,7 @@ audio {
         font-size: 21rem;
     }
 }
+
 
 
 
