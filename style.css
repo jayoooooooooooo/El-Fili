@@ -29,17 +29,6 @@ p {
     margin-top: 90px;
 }
 
-.ENHYPEN {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    margin: 20px 0;
-  }
-.ENHYPEN {
-    display: flex;
-    align-items: top;
-}
-
 .profile-image {
     width: 250px;
     height: 250px;
@@ -68,6 +57,7 @@ audio {
         font-size: 21rem;
     }
 }
+
 
 
 
